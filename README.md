@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm nguyen</h1>
-<h3 align="center">my name nguyen</h3>
+<h3 align="center">Tên: Hoàng Thế Nguyên</h3>
+<h3 align="center">Nhóm: Nhóm 2</h3>
 
 - 🔭 I’m currently working on **English Center project**
 
